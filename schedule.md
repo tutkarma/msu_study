@@ -89,3 +89,5 @@
 **Трансляция:** https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F82610138207%3Fpwd%3DNzJPcmY5SGQwSWRtUldvdStYeGxjUT09&cc_key=
 
 **Материалы:** https://mai.moscow/pages/viewpage.action?pageId=27558292
+
+**ДЗ:** https://drive.google.com/drive/folders/18qxt1i8jZuXqt71n_q5DTNl_sRWndE2r

@@ -30,10 +30,6 @@ public:
         alloc_delete_ = T::operator delete;
     }
 
-    TAllocator(alloc_new operator_new,
-               alloc_delete operator_delete)
-        : alloc_new_(operator_new), alloc_delete_(operator_delete) {}
-
     template<class U>
     TAllocator(const TAllocator<U>& other)
         : alloc_new_(other.alloc_new_),
